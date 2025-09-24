@@ -1,0 +1,1 @@
+# CNN-LSTM-GWO_Prediksi-IHSG
